@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css?family=B612|Cairo|Roboto&display=swap');
+/* Start Navbar */
+.navbar {
+    padding: 0px 10px !important;
+}
+.navbar .navbar-brand
+{
+    font-family: 'Rubik', sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+}
+.navbar .navbar-brand .logo {
+max-height: 60px;
+margin-right: 10px;
+max-width: 6rem;
+
+}
+ 
+
+.navbar-nav .nav-link
+{
+   font-family: 'Cairo', sans-serif;
+    font-weight: 600;
+}
+/* End Navbar */
+
+/* start header */
+header {
+    height: 550px;
+    position: relative;
+    transition: all 1s;
+    
+    
+}
+body {
+     height: 200px;
+    width: 90%;
+    background-image: linear-gradient(90deg, rgba(233, 233, 233, 1), rgba(172, 172, 172, 1));
+}
+header .header-overlay {
+   
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 80%;
+    width: 100%;
+background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.dev/svgjs' width='1440' height='560' preserveAspectRatio='none' viewBox='0 0 1440 560'%3e%3cg clip-path='url(%26quot%3b%23SvgjsClipPath1307%26quot%3b)' fill='none'%3e%3crect width='1440' height='560' x='0' y='0' fill='%2332325d'%3e%3c/rect%3e%3ccircle r='20.685' cx='467.55' cy='382.77' fill='url(%26quot%3b%23SvgjsLinearGradient1308%26quot%3b)'%3e%3c/circle%3e%3ccircle r='24.845' cx='418.31' cy='515.08' fill='url(%26quot%3b%23SvgjsLinearGradient1309%26quot%3b)'%3e%3c/circle%3e%3ccircle r='41.545' cx='1347.73' cy='508.84' fill='url(%26quot%3b%23SvgjsLinearGradient1310%26quot%3b)'%3e%3c/circle%3e%3ccircle r='23.625' cx='581.14' cy='18.13' fill='url(%26quot%3b%23SvgjsLinearGradient1311%26quot%3b)'%3e%3c/circle%3e%3ccircle r='40.615' cx='468.48' cy='428.71' fill='url(%26quot%3b%23SvgjsLinearGradient1312%26quot%3b)'%3e%3c/circle%3e%3ccircle r='42.915' cx='301.7' cy='134.38' fill='url(%26quot%3b%23SvgjsLinearGradient1313%26quot%3b)'%3e%3c/circle%3e%3ccircle r='19.275' cx='175.94' cy='162.65' fill='url(%26quot%3b%23SvgjsLinearGradient1314%26quot%3b)'%3e%3c/circle%3e%3ccircle r='54.43' cx='437.25' cy='236.04' fill='url(%26quot%3b%23SvgjsLinearGradient1315%26quot%3b)'%3e%3c/circle%3e%3c/g%3e%3cdefs%3e%3cclipPath id='SvgjsClipPath1307'%3e%3crect width='1440' height='560' x='0' y='0'%3e%3c/rect%3e%3c/clipPath%3e%3clinearGradient x1='426.18' y1='382.77' x2='508.92' y2='382.77' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient1308'%3e%3cstop stop-color='%23ab3c51' offset='0.1'%3e%3c/stop%3e%3cstop stop-color='%234f4484' offset='0.9'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient x1='368.62' y1='515.08' x2='468' y2='515.08' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient1309'%3e%3cstop stop-color='%23f29b7c' offset='0.1'%3e%3c/stop%3e%3cstop stop-color='%237e6286' offset='0.9'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient x1='1264.64' y1='508.84000000000003' x2='1430.8200000000002' y2='508.84000000000003' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient1310'%3e%3cstop stop-color='%2384b6e0' offset='0.1'%3e%3c/stop%3e%3cstop stop-color='%23464a8f' offset='0.9'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient x1='533.89' y1='18.13' x2='628.39' y2='18.13' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient1311'%3e%3cstop stop-color='%23e298de' offset='0.1'%3e%3c/stop%3e%3cstop stop-color='%23484687' offset='0.9'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient x1='387.25' y1='428.71' x2='549.71' y2='428.71' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient1312'%3e%3cstop stop-color='%23ab3c51' offset='0.1'%3e%3c/stop%3e%3cstop stop-color='rgba(83%2c 73%2c 131%2c 1)' offset='0.9'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient x1='215.87' y1='134.38' x2='387.53' y2='134.38' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient1313'%3e%3cstop stop-color='%23ab3c51' offset='0.1'%3e%3c/stop%3e%3cstop stop-color='rgba(83%2c 73%2c 131%2c 1)' offset='0.9'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient x1='137.39' y1='162.65' x2='214.48999999999998' y2='162.65' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient1314'%3e%3cstop stop-color='%23ab3c51' offset='0.1'%3e%3c/stop%3e%3cstop stop-color='%234f4484' offset='0.9'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient x1='328.39' y1='236.04' x2='546.11' y2='236.04' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient1315'%3e%3cstop stop-color='%2384b6e0' offset='0.1'%3e%3c/stop%3e%3cstop stop-color='%23464a8f' offset='0.9'%3e%3c/stop%3e%3c/linearGradient%3e%3c/defs%3e%3c/svg%3e");.text-white {}
+    color: #ffffff ;
+
+}
+header .header-overlay .header-title h1
+{
+    margin-top: 10px;
+    font-family: 'Roboto', sans;
+    font-size: 60px;
+}
+header .header-overlay .header-title .title-link
+{
+   font-family: 'B612', sans-serif;
+    white-space: nowrap;
+}
+/* end header */
+
+/*Start media Query*/
+@media only screen and (max-width: 768px)
+{
+
+    header
+    {
+        height: 500px;
+    }
+  header .header-overlay .header-title h1
+    {
+        font-size: 45px;
+    }
+}
+/*End media Query*/
+.preloader {
+   position: absolute;
+   top: 0;
+   left: 0;
+   width: 100%;
+   height: 100%;
+   z-index: 9999;
+   background-image: url('../images/loading.gif');
+   background-repeat: no-repeat;
+   background-color: #FFF;
+   background-position: center;
+}
+.user-pic {
+    width: 150px;
+    height: 150px;
+    overflow: hidden;
+    border-radius: 100%;
+    margin: 20px auto 20px;
+    border-left: 3px solid #ddd;
+    border-right: 3px solid #ddd;
+    border-top: 3px solid #007bff;
+    border-bottom: 3px solid #007bff;
+    transform: rotate(-30deg);
+    transition: 0.5s;
+}
+.card-box:hover .user-pic {
+    transform: rotate(0deg);
+    transform: scale(1.1);
+}
+.card-box {
+    padding: 15px;
+    background-color: #fdfdfd;
+    margin: 20px 0px;
+    border-radius: 10px;
+    border: 1px solid #eee;
+    box-shadow: 0px 0px 8px 0px #d4d4d4;
+    transition: 0.5s;
+}
+.card-box:hover {
+  border: 1px solid #007bff;
+}
+.card-box p {
+    color: #808080;
+}
+
+
+.copyright{
+    color: whitesmoke;
+    font-size: x-large;
+    margin-left: 5rem;
+  
+}
+.footertext-center{
+    background-color:darkblue;
+    
+}
+
+/* Footer on home page */
+
