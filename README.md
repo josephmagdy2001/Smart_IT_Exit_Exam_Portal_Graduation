@@ -30,8 +30,8 @@ should id is 7 numbers and password is strong.
 ## the files do you need 
 Documentation:https://github.com/josephmagdy2001/Smart_IT_Exit_Exam_Portal_Graduation/blob/main/Smart_it_exit_Exam_portal.pdf
 
-
 presentation:
-file sql : 
+
+file sql :https://github.com/josephmagdy2001/Smart_IT_Exit_Exam_Portal_Graduation/blob/main/o6u_onlineq.sql
 
 ## If You Face Any Prolblem Feel Free To Contact me  https://wa.me/+201112215391    
