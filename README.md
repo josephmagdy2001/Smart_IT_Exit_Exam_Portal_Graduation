@@ -16,10 +16,10 @@ a computerized system. The system will allow students to register and take the e
    and passowrd is admin
 5. attention should have a server Apache as xammp server to upload file .sql of project on mysql.
 6. this work on windows only and responsive.
-7. 
+ 
 
 ## admin Account  
-email: admin@gamil.com <br>
+email: admin@gmail.com <br>
 password: admin
 
 ## Student Account
