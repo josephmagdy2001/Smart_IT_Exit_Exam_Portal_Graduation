@@ -10,12 +10,13 @@ a computerized system. The system will allow students to register and take the e
 
 ## How to Install?
 1. Clone the project to your web folder (www)
-2. excute the attached sql database file
-3. login as admin using default email and password
-4. default email / admin@gmail.com
+2. Excute the attached sql database file
+3. Login as admin using default email and password
+4. Default email / admin@gmail.com
    and passowrd is admin
-5. attention should have a server Apache as xammp server to upload file .sql of project on mysql and name the database as same as file .sql on this project then make import file on database created.
-6. this work on windows only and responsive.
+5. Attention should have a server Apache as xammp server to upload file .sql of project on mysql and name the database as same as file .sql on this project then make import file on database created.
+6. This work on windows only and responsive.
+7. If don't know anything about running this project can you see folder name docs on files of project exsit all ways with screenshots with steps here https://github.com/josephmagdy2001/Smart_IT_Exit_Exam_Portal_Graduation/tree/main/docs
  
 
 ## admin Account  
