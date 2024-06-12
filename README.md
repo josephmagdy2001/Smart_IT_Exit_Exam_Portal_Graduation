@@ -34,4 +34,7 @@ presentation:https://github.com/josephmagdy2001/Smart_IT_Exit_Exam_Portal_Gradua
 
 file sql :https://github.com/josephmagdy2001/Smart_IT_Exit_Exam_Portal_Graduation/blob/main/o6u_onlineq.sql
 
+## can you follow me on linkedin profile 
+https://www.linkedin.com/in/josephmagdy
+
 ## If You Face Any Prolblem Feel Free To Contact me  https://wa.me/+201112215391    
