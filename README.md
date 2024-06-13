@@ -17,6 +17,7 @@ a computerized system. The system will allow students to register and take the e
 5. Attention should have a server Apache as xammp server to upload file .sql of project on mysql and name the database as same as file .sql on this project then make import file on database created.
 6. This work on windows only and responsive.
 7. If you don't know anything about running this project can you see folder name docs on files of project exsit all ways with screenshots with steps here https://github.com/josephmagdy2001/Smart_IT_Exit_Exam_Portal_Graduation/tree/main/docs
+8. when run project on browser write localhost/folderName of project then press button Enter and don't forget run xammp Apache during run folder of project.
  
 
 ## admin Account  
